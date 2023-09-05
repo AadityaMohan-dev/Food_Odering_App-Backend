@@ -17,7 +17,7 @@ public class EatNFun {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	private String name = "EatNFun";
-	private String contact = "8881685609";
+	private String contact = "8881*******";
 	private String email = "aadimohan51@gmail.com";
 	
 	@OneToMany(cascade = CascadeType.ALL)
